@@ -4,10 +4,9 @@ Linux tinkerer who builds his own OS, drags Windows tools into the Linux dayligh
 and themes GNOME until it stops looking like GNOME.
 
 - 🖥️ Maintaining **[DistinctionOS](https://github.com/phantomcortex/DistinctionOS)** —
-  Bazzite with my own unholy modifications welded on top. Immutable, Cosign-signed,
-  rebuilt every few days.
+  Bazzite with my own unholy modifications welded on top.
 - 🗡️ Bringing the Skyrim modding workflow to *native* Linux — archives, meshes,
-  textures, and audio, handled by GNOME itself. No Wine, no apologies.
+  textures, and audio, handled by GNOME itself.
 - 🎨 A wardrobe of GTK/GNOME themes, and the occasional local-AI experiment.
 
 ### 🧩 Teaching the Linux desktop to speak Bethesda
